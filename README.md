@@ -1,6 +1,6 @@
-# AngularJS Bootcamp
+# Intro To Web Development Bootcamp
 
-Welcome to AngularJS Bootcamp! We are excited to have you! Over the next two weeksyou are going to be challenged on a grand scale. If you made it this far and have been accepted to the program then congratulations! If you didn't make the cut thenkeep working, nothing good in life comes easy, but everything good in life you canachieve with hard work!
+Welcome to the Accelerate Foundation Intro to Web Development Bootcamp! We are excited to have you! Over the next two weeks you are going to be challenged on a grand scale. If you made it this far and have been accepted to the program then congratulations! If you didn't make the cut then keep working, nothing good in life comes easy, but everything good in life you can achieve with hard work!
 
 Now lets begin...
 
@@ -12,13 +12,13 @@ Vi is what is going to set u apart from the crowd. All the while getting you mor
 
 [VI](./references/VI.md)
 
-## Typescript
+## Javascript
 
-Typescript is a superset of JavaScript which provides optional static typing, classes and interfaces.
+Modern Javascript is a powerful tool, and is what we will be using throughout this course. Learning this style of programming will set you up for the future to walk into whatever language you need to from a programming perspective.
 
-Modern Javascript also has most all of these features but the focus of this bootcamp is to get you job ready and right now the fact is if your using Angular your using Typescript.
+Here are some materials to study on the subject, and to learn some history of Javascript.
 
-[Typescript References](./references/TYPESCRIPT.md)
+[Javascript References](./references/JAVASCRIPT.md)
 
 ## Bootcamp Schedule
 
