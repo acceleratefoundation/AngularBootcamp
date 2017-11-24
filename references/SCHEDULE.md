@@ -1,6 +1,6 @@
 # Week 1
 
-# Day 1 - Enviornment Setup | Unix Intro | VI Intro  - Sean Wright
+## Day 1 - Enviornment Setup | Unix Intro | VI Intro  - Sean Wright
   - Intro to [VI](.references/VI.md)
   - Intro to [UNIX](.references/UNIX.md)
 
