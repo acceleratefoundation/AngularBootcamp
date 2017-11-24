@@ -6,24 +6,6 @@ Now lets begin...
 
 Here is some reading material to get you started. This is additional to the work given to you by your instructor. The homework given allows us to focus on mentoring and facilitates the flexible bootcamp schedule.
 
-## VI
-
-Vi is what is going to set u apart from the crowd. All the while getting you more closely acquainted with your machine. The learning curve is steeper in the beginning but once you understand it you will be lightyears ahead of the competition.
-
-[VI](./references/VI.md)
-
-## Javascript
-
-Modern Javascript is a powerful tool, and is what we will be using throughout this course. Learning this style of programming will set you up for the future to walk into whatever language you need to from a programming perspective.
-
-Here are some materials to study on the subject, and to learn some history of Javascript.
-
-[Javascript References](./references/JAVASCRIPT.md)
-
-## Bootcamp Schedule
-
-[Schedule](./references/SCHEDULE.md)
-
 ## Mac OS Setup Instructions
 
 Follow this instructions if you have a Mac.
@@ -47,3 +29,23 @@ Follow these instructions if you have a Windows machine.
 As you will see in the previous instructions even if you have a Windows machine we are still using bash, or installing a Unix based virtual machine that you will be doing your work on. Here are some references to common Unix command that you will be using very regularly.
 
 [UNIX Intro](./references/UNIX.md)
+
+## VI
+
+Vi is what is going to set u apart from the crowd. All the while getting you more closely acquainted with your machine. The learning curve is steeper in the beginning but once you understand it you will be lightyears ahead of the competition.
+
+[VI](./references/VI.md)
+
+## Javascript
+
+Modern Javascript is a powerful tool, and is what we will be using throughout this course. Learning this style of programming will set you up for the future to walk into whatever language you need to from a programming perspective.
+
+Here are some materials to study on the subject, and to learn some history of Javascript.
+
+[Javascript References](./references/JAVASCRIPT.md)
+
+## Bootcamp Schedule
+
+[Schedule](./references/SCHEDULE.md)
+
+
