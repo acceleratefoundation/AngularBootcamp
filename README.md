@@ -46,4 +46,4 @@ Follow these instructions if you have a Windows machine.
 
 As you will see in the previous instructions even if you have a Windows machine we are still using bash, or installing a Unix based virtual machine that you will be doing your work on. Here are some references to common Unix command that you will be using very regularly.
 
-[](./references/UNIX.md)
+[UNIX Intro](./references/UNIX.md)
