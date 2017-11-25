@@ -8,16 +8,20 @@ https://www.virtualbox.org/
 ### Install Vagrant
 https://www.vagrantup.com/downloads.html
 
+
+
 ### Clone this repo
+Open a command terminal or a bash terminal
+
 ```
-git clone https://github.com/zerodevgroup/bootcamp.git
+git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
 ```
 
 ### Create box with vagrant
 
 (Note: This may take a while. Make sure you let this process completely finish.)
 ```
-cd bootcamp
+cd web-development-bootcamp/tools
 vagrant up
 ```
 
@@ -30,7 +34,7 @@ vagrant up
 Open Terminator
 
 ```
-git clone https://github.com/zerodevgroup/bootcamp.git
+git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
 ```
 
 ### Update operating system
@@ -43,7 +47,7 @@ sudo apt-get -y upgrade
 
 ### Install Node JS
 ```
-cd bootcamp
+cd web-development-bootcamp/tools
 cat ubuntu-node-install | sudo -E bash -
 ```
 

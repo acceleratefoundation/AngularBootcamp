@@ -1,0 +1,26 @@
+{
+  "name": "web-development-bootcamp",
+  "version": "1.0.0",
+  "description": "Web Development Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acceleratefoundation/web-development-bootcamp.git"
+  },
+  "keywords": [
+    "bootcamp"
+  ],
+  "author": "acceleratefoundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acceleratefoundation/web-development-bootcamp/issues"
+  },
+  "homepage": "https://github.com/acceleratefoundation/web-development-bootcamp#readme",
+  "dependencies": {
+    "commander": "^2.12.1",
+    "shelljs": "^0.7.8"
+  }
+}
