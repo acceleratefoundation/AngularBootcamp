@@ -66,35 +66,10 @@ https://www.virtualbox.org/
   - When the installation is complete, click "Restart Now"
   - When the "Please remove the installation medium" screen appears, hit the "Enter" key
 
-### Install Guest Additions
-  
-  - When the login screen appears (after reboot), enter your credentials and then click "Log In"
-  - From the VirtualBox menu, select "Devices" and then "Insert Guest Additions CD image"
-  - When the "Choose what application to launch" dialog appears, click "OK"
-  - When the "Would you like to run it?" dialog appears, click "Run"
-  - When the "Authentication is needed" dialog appears, entery your password and then click "Authenticate"
-  - Once installation is complete, "Press Return to close this window"
-
-### Configure VirtualBox
-
-  - Shut down Ubuntu MATE by select the power off button
-  - In VirtualBox, select the powered off "Ubuntu Dev Box" machine
-  - Click "Settings"
-  - On the "General" tab, select "Advanced"
-  - Under "Shared Clipboard", select "Bidirectional"
-  - Click the "Display" tab
-  - Increase the Video Memory to 128 MB
-  - Click OK
-
 ### Development Environment Setup
 
   - Start the "Ubuntu Dev Box"
-  - Open Terminator
-
-
-### Clone this repo
-
-Open Terminator
+  - Open MATE Terminal
 
 ```
 git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
@@ -104,6 +79,8 @@ git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
 ```
 sudo apt-get update
 sudo apt-get -y upgrade
+sudo apt-get -y install virtualbox-guest-x11-hwe
+sudo apt-get -y install git
 ```
 
 (Note: towards the end of the upgrade, you will be asked for GRUB options. Don't select any options, just navigate to the OK button (tab to get there) and confirm you don't want any GRUB options installed.)
@@ -134,3 +111,14 @@ sudo ./dev-clean-install.js setup $USER iamgroot groot@gmail.com 'guardian'
 ```
 sudo ./dev-clean-install.js mongoSetup
 ```
+
+### Configure VirtualBox
+
+  - Shut down Ubuntu MATE by select the power off button
+  - In VirtualBox, select the powered off "Ubuntu Dev Box" machine
+  - Click "Settings"
+  - On the "General" tab, select "Advanced"
+  - Under "Shared Clipboard", select "Bidirectional"
+  - Click the "Display" tab
+  - Increase the Video Memory to 128 MB
+  - Click OK
