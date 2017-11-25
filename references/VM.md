@@ -65,3 +65,9 @@ Example:
 ```
 sudo ./dev-clean-install.js setup $USER iamgroot groot@gmail.com 'guardian' 
 ```
+
+### MongoDB Install
+
+```
+sudo ./dev-clean-install.js mongoSetup
+```
