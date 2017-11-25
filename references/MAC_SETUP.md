@@ -12,7 +12,7 @@ Xcode is free from Apple, but it's a large application (usually at least 3GB). G
 
 ### Clone this repo
 ```
-git clone https://github.com/zerodevgroup/bootcamp.git
+git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
 ```
 
 ### Install Node JS
