@@ -123,3 +123,8 @@ sudo ./dev-clean-install.js setup $USER iamgroot groot@gmail.com 'guardian'
 sudo ./dev-clean-install.js mongoSetup
 ```
 
+  - Exit Ubuntu MATE Terminal
+
+```
+exit
+```
