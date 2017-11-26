@@ -48,4 +48,8 @@ Here are some materials to study on the subject, and to learn some history of Ja
 
 [Schedule](./references/SCHEDULE.md)
 
+## Quick Fire Videos
+
+[Introduction to the Terminal](https://www.youtube.com/watch?v=2qVcigVGquA&feature=youtu.be)
+
 
