@@ -66,14 +66,6 @@ https://www.virtualbox.org/
   - When the installation is complete, click "Restart Now"
   - When the "Please remove the installation medium" screen appears, hit the "Enter" key
 
-### Development Environment Setup
-
-  - Start the "Ubuntu Dev Box"
-  - Open MATE Terminal
-
-```
-git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
-```
 
 ### Update operating system
 ```
@@ -81,6 +73,26 @@ sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt-get -y install virtualbox-guest-x11-hwe
 sudo apt-get -y install git
+```
+
+### Configure VirtualBox
+
+  - Shut down Ubuntu MATE by select the power off button
+  - In VirtualBox, select the powered off "Ubuntu Dev Box" machine
+  - Click "Settings"
+  - On the "General" tab, select "Advanced"
+  - Under "Shared Clipboard", select "Bidirectional"
+  - Click the "Display" tab
+  - Increase the Video Memory to 128 MB
+  - Click OK
+
+### Development Environment Setup
+
+  - Start the "Ubuntu Dev Box"
+  - Open MATE Terminal
+
+```
+git clone https://github.com/acceleratefoundation/web-development-bootcamp.git
 ```
 
 ### Install Node JS
@@ -110,13 +122,3 @@ sudo ./dev-clean-install.js setup $USER iamgroot groot@gmail.com 'guardian'
 sudo ./dev-clean-install.js mongoSetup
 ```
 
-### Configure VirtualBox
-
-  - Shut down Ubuntu MATE by select the power off button
-  - In VirtualBox, select the powered off "Ubuntu Dev Box" machine
-  - Click "Settings"
-  - On the "General" tab, select "Advanced"
-  - Under "Shared Clipboard", select "Bidirectional"
-  - Click the "Display" tab
-  - Increase the Video Memory to 128 MB
-  - Click OK
