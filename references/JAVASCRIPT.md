@@ -3,6 +3,8 @@
 
 http://eloquentjavascript.net/Eloquent_JavaScript.pdf
 
+[Javascript Basics w/ Examples](./JavascriptIntro.md)
+
 
 ### May 30th Material
 Try to read sections 1-3.

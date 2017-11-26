@@ -24,6 +24,12 @@ Follow these instructions if you have a Windows machine.
 
 [Windows w/ Linux VM Setup](./references/VM.md)
 
+## Quick Fire Videos
+
+[Introduction to the Terminal](https://www.youtube.com/watch?v=2qVcigVGquA&feature=youtu.be)
+
+[Introduction to VI]()
+
 ## Unix Commands
 
 As you will see in the previous instructions even if you have a Windows machine we are still using bash, or installing a Unix based virtual machine that you will be doing your work on. Here are some references to common Unix command that you will be using very regularly.
@@ -47,9 +53,5 @@ Here are some materials to study on the subject, and to learn some history of Ja
 ## Bootcamp Schedule
 
 [Schedule](./references/SCHEDULE.md)
-
-## Quick Fire Videos
-
-[Introduction to the Terminal](https://www.youtube.com/watch?v=2qVcigVGquA&feature=youtu.be)
 
 
