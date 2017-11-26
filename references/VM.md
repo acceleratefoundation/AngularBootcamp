@@ -73,6 +73,7 @@ sudo apt-get update
 sudo apt-get -y upgrade
 sudo apt-get -y install virtualbox-guest-x11-hwe
 sudo apt-get -y install git
+sudo apt-get -y install curl
 ```
 
 ### Configure VirtualBox
