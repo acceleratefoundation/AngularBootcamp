@@ -1,6 +1,6 @@
 # Intro To Web Development Bootcamp
 
-Welcome to the Accelerate Foundation Intro to Web Development Bootcamp! We are excited to have you! Over the next two weeks you are going to be challenged on a grand scale. If you made it this far and have been accepted to the program then congratulations! If you didn't make the cut then keep working, nothing good in life comes easy, but everything good in life you can achieve with hard work!
+Welcome to the Accelerate Foundation Intro to Web Development Bootcamp! We are excited to have you! Over the next two weeks you are going to be challenged on a grand scale. If you made it this far and have been accepted to the program then congratulations!
 
 Now lets begin...
 
