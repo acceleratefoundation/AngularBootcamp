@@ -12,11 +12,6 @@ Follow this instructions if you have a Mac.
 
 [Mac Setup](./references/MAC_SETUP.md)
 
-## Setup for Windows 10 Machines Using Bash 
-
-Follow these instructions if you have a Windows machine.
-
-[Windows 10 w/ Bash Instructions](./references/WINDOWS10BASH.md)
 
 ## Setup for Windows Using VM 
 
