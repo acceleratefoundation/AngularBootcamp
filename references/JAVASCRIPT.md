@@ -1,8 +1,8 @@
 
 ### Javascript Reference
 
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-
+[Elequent Javascript Book](http://eloquentjavascript.net/Eloquent_JavaScript.pdf
+)
 [Javascript Basics w/ Examples](./JavascriptIntro.md)
 
 
