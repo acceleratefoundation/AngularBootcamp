@@ -28,6 +28,8 @@ Follow these instructions if you have a Windows machine.
 
 [Introduction to the Terminal](https://www.youtube.com/watch?v=2qVcigVGquA&feature=youtu.be)
 
+[Terminal Written Reference](./references/TerminalIntro.md)
+
 [Introduction to VI]()
 
 ## Unix Commands
