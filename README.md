@@ -30,7 +30,7 @@ Follow these instructions if you have a Windows machine.
 
 [Terminal Written Reference](./references/TerminalIntro.md)
 
-[Introduction to VI]()
+[Introduction to VI](https://www.youtube.com/watch?v=bpqwfoY-lo0&feature=youtu.be)
 
 ## Unix Commands
 
