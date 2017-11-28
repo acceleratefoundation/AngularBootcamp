@@ -5,7 +5,7 @@
   - Intro to [UNIX](.references/UNIX.md)
 
 ## Day 2 - Intro to JavaScript - Gerald Yerden II
-  - Intro to JavaScript - [Javascript References](./references/JAVASCRIPT.md)
+  - Intro to JavaScript - [Javascript References](./JAVASCRIPT.md)
   - Jarvis CLI
  
 ## Day 3 - JavaScript Programming - Gerald Yerden II
