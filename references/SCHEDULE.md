@@ -29,8 +29,7 @@
 # Week 2
 
 ## Day 1 - Modern Web Programming Part 2 - Gerald Yerden II
-  - Angular
-  - ngrx
+  - JavaScript
   - MongoDB
   - Tour of Heroes
 
