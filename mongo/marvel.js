@@ -13,24 +13,30 @@ class Marvel {
   getData(callback) {
     let obj = {}
     let arr = []
-      this.marvel.characters.findAll()
-        .then((heroes) => {
-            heroes['data'].forEach((hero,index) => {
-             obj = {
-               name: hero.name, 
-               description :  hero.description
-             }
-             arr.push(obj)
-            })
-            callback(arr)
 
-          })
-        .fail(console.error)
-        .done
+    this.marvel.characters.findAll().then((heroes) => {
+      heroes['data'].forEach((hero,index) => {
+        obj = {
+          name: hero.name, 
+          description:  hero.description,
+          image:  `${hero.thumbnail.path}.${hero.thumbnail.extension}`
+        }
+
+        hero.urls.forEach((urlItem) => {
+          if(urlItem.type === 'detail') {
+            obj.link = urlItem.url
+          }
+        })
+
+        arr.push(obj)
+      })
+      callback(arr)
+
+    })
+    .fail(console.error)
+    .done
 
     return arr
-
-      
 
   }
 
