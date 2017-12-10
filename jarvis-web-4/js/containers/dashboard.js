@@ -5,7 +5,7 @@ export default class Dashboard {
   }
 
   getData() {
-    // This is where we'll grab data from the marvel api
+    // This is where we'll grab data from our api (express)
     let promise = new Promise((resolve, reject) => {
 
       const request = new XMLHttpRequest()
@@ -15,8 +15,10 @@ export default class Dashboard {
         let data = JSON.parse(request.responseText)
         console.log(data)
         resolve(data)
-      };
+      }
+
       request.open("GET", 'http://localhost:3000/api/heroes')
+
       request.send()
     })
 
