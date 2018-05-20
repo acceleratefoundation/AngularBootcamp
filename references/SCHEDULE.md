@@ -35,10 +35,10 @@
 
 # Week 2
 
-## Day 1 - Modern Web Programming Part 2
+## Day 1 - Project
   - Develop Project
 
-## Day 2 - Project Setup
+## Day 2 - Project Day 2
   - Develop Project 
  
 ## Day 3 - Project Day 3
