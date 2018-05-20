@@ -1,41 +1,45 @@
 # Week 1
 
-## Day 1 - Enviornment Setup | Unix Intro | VI Intro  - Sean Wright
+## Day 1 - Welcome! General Introduction/Intro to the Internet/Intro to VI/Intro to Unix/Intro to git 
+  - What is the point of this class?
+  - How to get help?
+  - Intro to the Internet/Basic Networking
   - Intro to [VI](.references/VI.md)
   - Intro to [UNIX](.references/UNIX.md)
+  - Intro to git
 
-## Day 2 - Intro to JavaScript - Gerald Yerden II
-  - Intro to JavaScript - [Javascript References](./references/JAVASCRIPT.md)
-  - Jarvis CLI
+## Day 2 - Intro to JavaScript 
+  - Why javascript?
+  - A little history [Javascript References](./references/JAVASCRIPT.md)
+  - Intro to NodeJS
+  - Lets chat about NPM
+  - Variables
+  - Arrays
+  - Objects
+  - Functions
  
-## Day 3 - JavaScript Programming - Gerald Yerden II
-  - Node JS
-  - Jarvis CLI
+## Day 3 - NodeJS Programming 
+  - Lets build something - Jarvis CLI Iteration 1
+  - Object Oriented Javascript
 
-## Day 4 - Modern Web Programming - Sean Wright
+## Day 4 - Modern Web Programming
   - HTML
   - CSS
-  - JavaScript
-  - Express
-  - JSON
+  - JavaScript Dom Manipulation
+  - Webpack
+  - Express - Building Web Server
 
-## Day 5 - Modern Web Programming Part 2 - Sean Wright
-  - HTML
-  - Javascript Styling
-  - JavaScript DOM Manipulation
-  - Express
-  - JSON
+## Day 5 - Modern Web Programming Part 2
+  - MongoDB
+  - Project Discussion
 
 # Week 2
 
-## Day 1 - Modern Web Programming Part 2 - Gerald Yerden II
-  - JavaScript
-  - MongoDB
-  - Tour of Heroes
+## Day 1 - Modern Web Programming Part 2
+  - Develop Project
 
-## Day 2 - Project Setup - Gerald Yerden II
-  - Demonstrate project creation
-  - Assign project to developers
+## Day 2 - Project Setup
+  - Develop Project 
  
 ## Day 3 - Project Day 3
   - Develop Project
