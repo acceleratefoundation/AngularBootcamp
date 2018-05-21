@@ -4,8 +4,8 @@
   - What is the point of this class?
   - How to get help?
   - Intro to the Internet/Basic Networking
-  - Intro to [VI](.references/VI.md)
-  - Intro to [UNIX](.references/UNIX.md)
+  - Intro to [VI](./VI.md)
+  - Intro to [UNIX](./UNIX.md)
   - Intro to git
 
 ## Day 2 - Intro to JavaScript 
